@@ -1,0 +1,13 @@
+#li{
+	background-color: gray;
+	flood-color: red;
+
+}
+.h1{
+	background-color:lightblue;
+	flood-color: white;
+}
+body{
+	border-right-color: solid;
+	background-color: lightgreen;
+}
