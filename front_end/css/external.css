@@ -1,0 +1,14 @@
+h1{
+	background-color: red;
+	font-size: 20px;
+	font-family: serif;
+	color: black;
+	border:solid;
+	border-width: 5px;
+}
+body{
+	border:solid;
+	color: black;
+	background-color: lightblue;
+	border-width: 10px;
+}
